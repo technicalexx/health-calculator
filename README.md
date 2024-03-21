@@ -6,12 +6,12 @@
 
 ## Features
 
-* BMI Calculator: Calculates and displays the user's Body Mass Index based on height and weight inputs.
+- **BMI Calculator: Calculates and displays the user's Body Mass Index based on height and weight inputs.**
 
     Formula used: $\text{BMI} = \frac{\text{weight (lb)}}{[\text{height (in)}]^2} \times 703$
 
 
-* Daily Calorie Intake Calculator: Estimates the user's daily calorie needs considering their height, weight, age, gender, and activity level.
+- **Daily Calorie Intake Calculator: Estimates the user's daily calorie needs considering their height, weight, age, gender, and activity level.**
 
     Formulas used: 
 
@@ -21,26 +21,26 @@
 
     $\text{Daily Calorie Intake} = \text{BMR} \times \text{Activity Multiplier}$
 
-    The Daily Caloric Intake is calculated by multiplying the Basal Metabolic Rate (BMR) by an Activity Multiplier, which depends on the level of activity:
+    The Daily Calorie Intake is calculated by multiplying the Basal Metabolic Rate (BMR) by an Activity Multiplier, which depends on the level of activity:
 
-- **Sedentary (little to no exercise):** 
+    *Sedentary (little to no exercise):* 
   - Activity Multiplier = 1.2
 
-- **Lightly active (exercising 1-to-3 days per week):** 
+    *Lightly active (exercising 1-to-3 days per week):*
   - Activity Multiplier = 1.375
 
-- **Moderately active (exercising 3-to-5 days per week):** 
+    *Moderately active (exercising 3-to-5 days per week):* 
   - Activity Multiplier = 1.55
 
-- **Very active (sports or exercise 6-to-7 days per week):** 
+    *Very active (sports or exercise 6-to-7 days per week):*
   - Activity Multiplier = 1.725
 
-- **Extra active (very physically demanding jobs or exercise):** 
+    *Extra active (very physically demanding jobs or exercise):*
   - Activity Multiplier = 1.9
 
-* Blood Pressure Checker: Categorizes the user's blood pressure status based on systolic and diastolic blood pressure readings.
+- **Blood Pressure Checker: Categorizes the user's blood pressure status based on systolic and diastolic blood pressure readings.**
 
-### Blood Pressure Categories
+#### Blood Pressure Categories:
 
 The categorization of blood pressure readings into different health categories is based on the following table:
 
@@ -55,7 +55,7 @@ The categorization of blood pressure readings into different health categories i
 This table assists in determining the category of one's blood pressure reading, using the "and" condition for categories where both systolic and diastolic criteria must be met, and "or" for categories where meeting either criterion is sufficient. The "and/or" condition for hypertensive crisis indicates that this state can be triggered by exceeding either the systolic or diastolic threshold, or both.
 
 
-Please consult a healthcare professional for a comprehensive evaluation.
+**NOTE: Please consult a healthcare professional for a comprehensive evaluation.**
 
 ## Learning Journey
 
