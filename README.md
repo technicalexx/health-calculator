@@ -8,7 +8,9 @@
 
 - **BMI Calculator: Calculates and displays the user's Body Mass Index based on height and weight inputs.**
 
-    Formula used: $\text{BMI} = \frac{\text{weight (lb)}}{[\text{height (in)}]^2} \times 703$
+    Formula used: 
+    
+    $\text{BMI} = \frac{\text{weight (lb)}}{[\text{height (in)}]^2} \times 703$
 
 
 - **Daily Calorie Intake Calculator: Estimates the user's daily calorie needs considering their height, weight, age, gender, and activity level.**
